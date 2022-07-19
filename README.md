@@ -1,4 +1,4 @@
-![Front-End Developer](https://github.com/3mauroibarra/3mauroibarra/blob/main/img.jpg)
+![Front-End Developer](https://github.com/3mauroibarra/3mauroibarra/blob/main/image.jpg)
 
 # Mauro Ibarra
 I'm Mauro from Neuquén, Argentina. I really enjoy learning languages and frameworks like ReactJS.
