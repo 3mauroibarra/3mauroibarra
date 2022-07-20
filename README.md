@@ -9,4 +9,3 @@ I'm Mauro from Neuquén, Argentina. I really enjoy learning languages and framew
 * ⌨️ JavaScript
 * ⚛ ReactJS
 
-## Examples of Work
